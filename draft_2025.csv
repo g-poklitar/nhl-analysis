@@ -1,0 +1,205 @@
+round,pick_in_round,overall,player,nhl_team,position,fantasy_team
+1,1,1,Connor McDavid,EDM,C,laine’s 4head
+1,2,2,Nathan MacKinnon,COL,C,MacKinnon Me Softly
+1,3,3,Leon Draisaitl,EDM,"C,LW",Show Us Your Mitts
+1,4,4,Cale Makar,COL,D,McJesus Has Risen
+1,5,5,Nikita Kucherov,TB,RW,Zamboni Drivers Union
+1,6,6,Kirill Kaprizov,MIN,LW,ICE Raiders
+1,7,7,David Pastrnak,BOS,RW,Going Holloway up
+1,8,8,Mikko Rantanen,DAL,"LW,RW",Demigod
+1,9,9,Brady Tkachuk,FLA,"C,LW",GiannoneAK27
+1,10,10,Auston Matthews,TOR,C,Mustache Mafia
+1,11,11,William Nylander,TOR,"C,RW",Bob's Burgers
+1,12,12,Quinn Hughes,MIN,D,When Helly Freezes Over
+2,1,13,Connor Hellebuyck,WPG,G,When Helly Freezes Over
+2,2,14,Jack Eichel,VGK,C,Bob's Burgers
+2,3,15,Kyle Connor,WPG,LW,Mustache Mafia
+2,4,16,Lane Hutson,MTL,D,GiannoneAK27
+2,5,17,Andrei Vasilevskiy,TB,G,Demigod
+2,6,18,Jack Hughes,NJ,"C,LW",Going Holloway up
+2,7,19,Zach Werenski,CBJ,D,ICE Raiders
+2,8,20,Jake Oettinger,DAL,G,Zamboni Drivers Union
+2,9,21,Sam Reinhart,FLA,RW,McJesus Has Risen
+2,10,22,Rasmus Dahlin,BUF,D,Show Us Your Mitts
+2,11,23,Mitch Marner,VGK,"C,LW,RW",MacKinnon Me Softly
+2,12,24,Jason Robertson,DAL,"LW,RW",laine’s 4head
+3,1,25,Igor Shesterkin,NYR,G,laine’s 4head
+3,2,26,Brayden Point,TB,C,MacKinnon Me Softly
+3,3,27,Artemi Panarin,LA,LW,Show Us Your Mitts
+3,4,28,Jesper Bratt,NJ,"LW,RW",McJesus Has Risen
+3,5,29,J.T. Miller,NYR,"C,LW,RW",Zamboni Drivers Union
+3,6,30,Evan Bouchard,EDM,D,ICE Raiders
+3,7,31,Filip Forsberg,NSH,LW,Going Holloway up
+3,8,32,Sidney Crosby,PIT,C,Demigod
+3,9,33,Tim Stutzle,OTT,"C,LW",GiannoneAK27
+3,10,34,Jake Guentzel,TB,"LW,RW",Mustache Mafia
+3,11,35,Matt Boldy,MIN,"LW,RW",Bob's Burgers
+3,12,36,Nick Suzuki,MTL,C,When Helly Freezes Over
+4,1,37,Macklin Celebrini,SJ,C,When Helly Freezes Over
+4,2,38,Sergei Bobrovsky,TOR,G,Bob's Burgers
+4,3,39,Filip Gustavsson,MIN,G,Mustache Mafia
+4,4,40,Adam Fox,NYR,D,GiannoneAK27
+4,5,41,Connor Bedard,CHI,"C,RW",Demigod
+4,6,42,Dustin Wolf,CGY,G,Going Holloway up
+4,7,43,Mackenzie Blackwood,COL,G,ICE Raiders
+4,8,44,MacKenzie Weegar,UTA,D,Zamboni Drivers Union
+4,9,45,Victor Hedman,TB,D,McJesus Has Risen
+4,10,46,Clayton Keller,UTA,"LW,RW",Show Us Your Mitts
+4,11,47,Adin Hill,VGK,G,MacKinnon Me Softly
+4,12,48,Josh Morrissey,WPG,D,laine’s 4head
+5,1,49,Alex Ovechkin,WSH,"LW,RW",laine’s 4head
+5,2,50,Tage Thompson,BUF,"C,RW",MacKinnon Me Softly
+5,3,51,Adrian Kempe,LA,RW,Show Us Your Mitts
+5,4,52,Darcy Kuemper,LA,G,McJesus Has Risen
+5,5,53,Seth Jarvis,CAR,"LW,RW",Zamboni Drivers Union
+5,6,54,Sebastian Aho,CAR,C,ICE Raiders
+5,7,55,Martin Necas,COL,RW,Going Holloway up
+5,8,56,Jake Sanderson,OTT,D,Demigod
+5,9,57,Cole Caufield,MTL,"LW,RW",GiannoneAK27
+5,10,58,Roman Josi,NSH,D,Mustache Mafia
+5,11,59,Robert Thomas,STL,C,Bob's Burgers
+5,12,60,Ilya Sorokin,NYI,G,When Helly Freezes Over
+6,1,61,Brandon Hagel,TB,"LW,RW",When Helly Freezes Over
+6,2,62,Jakob Chychrun,WSH,D,Bob's Burgers
+6,3,63,Mark Scheifele,WPG,C,Mustache Mafia
+6,4,64,Moritz Seider,DET,D,GiannoneAK27
+6,5,65,Nico Hischier,NJ,C,Demigod
+6,6,66,Juuse Saros,NSH,G,Going Holloway up
+6,7,67,John Tavares,TOR,C,ICE Raiders
+6,8,68,Noah Dobson,MTL,D,Zamboni Drivers Union
+6,9,69,Jordan Binnington,STL,G,McJesus Has Risen
+6,10,70,Jacob Markstrom,FLA,G,Show Us Your Mitts
+6,11,71,Wyatt Johnston,DAL,"C,RW",MacKinnon Me Softly
+6,12,72,Samuel Montembeault,MTL,G,laine’s 4head
+7,1,73,Miro Heiskanen,DAL,D,laine’s 4head
+7,2,74,Linus Ullmark,OTT,G,MacKinnon Me Softly
+7,3,75,Valeri Nichushkin,CBJ,"LW,RW",Show Us Your Mitts
+7,4,76,Elias Pettersson,VAN,C,McJesus Has Risen
+7,5,77,Tom Wilson,WSH,RW,Zamboni Drivers Union
+7,6,78,Thomas Harley,DAL,D,ICE Raiders
+7,7,79,Travis Konecny,PHI,"LW,RW",Going Holloway up
+7,8,80,Matvei Michkov,PHI,"LW,RW",Demigod
+7,9,81,Logan Thompson,WSH,G,GiannoneAK27
+7,10,82,Dougie Hamilton,NJ,D,Mustache Mafia
+7,11,83,Jordan Kyrou,WSH,RW,Bob's Burgers
+7,12,84,Lucas Raymond,DET,RW,When Helly Freezes Over
+8,1,85,Kevin Fiala,LA,LW,When Helly Freezes Over
+8,2,86,Mikhail Sergachev,UTA,D,Bob's Burgers
+8,3,87,Thatcher Demko,VAN,G,Mustache Mafia
+8,4,88,Anthony Stolarz,TOR,G,GiannoneAK27
+8,5,89,Luke Hughes,NJ,D,Demigod
+8,6,90,Seth Jones,FLA,D,Going Holloway up
+8,7,91,Alex DeBrincat,DET,"LW,RW",ICE Raiders
+8,8,92,Jeremy Swayman,BOS,G,Zamboni Drivers Union
+8,9,93,Alex Tuch,WSH,"LW,RW",McJesus Has Risen
+8,10,94,Dylan Guenther,UTA,"LW,RW",Show Us Your Mitts
+8,11,95,Dylan Larkin,DET,C,MacKinnon Me Softly
+8,12,96,Shea Theodore,VGK,D,laine’s 4head
+9,1,97,Roope Hintz,DAL,C,laine’s 4head
+9,2,98,Brandon Montour,SEA,D,MacKinnon Me Softly
+9,3,99,Lukas Dostal,ANA,G,Show Us Your Mitts
+9,4,100,Aaron Ekblad,FLA,D,McJesus Has Risen
+9,5,101,Nikolaj Ehlers,CAR,LW,Zamboni Drivers Union
+9,6,102,Kirill Marchenko,CBJ,RW,ICE Raiders
+9,7,103,Charlie McAvoy,BOS,D,Going Holloway up
+9,8,104,Erik Karlsson,PIT,D,Demigod
+9,9,105,Aliaksei Protas,WSH,"LW,RW",GiannoneAK27
+9,10,106,Matthew Tkachuk,FLA,"LW,RW",Mustache Mafia
+9,11,107,Pyotr Kochetkov,CAR,G,Bob's Burgers
+9,12,108,John Carlson,TB,D,When Helly Freezes Over
+10,1,109,Timo Meier,NJ,"LW,RW",When Helly Freezes Over
+10,2,110,Matthew Knies,TOR,"LW,RW",Bob's Burgers
+10,3,111,Zach Hyman,EDM,"LW,RW",Mustache Mafia
+10,4,112,Ivan Demidov,MTL,RW,GiannoneAK27
+10,5,113,Tomas Hertl,VGK,"C,LW",Demigod
+10,6,114,Vincent Trocheck,UTA,C,Going Holloway up
+10,7,115,Matt Duchene,DAL,"C,RW",ICE Raiders
+10,8,116,Drake Batherson,OTT,"LW,RW",Zamboni Drivers Union
+10,9,117,Dylan Strome,WSH,C,McJesus Has Risen
+10,10,118,Andrei Svechnikov,CAR,"LW,RW",Show Us Your Mitts
+10,11,119,JJ Peterka,BOS,"LW,RW",MacKinnon Me Softly
+10,12,120,Juraj Slafkovský,MTL,"LW,RW",laine’s 4head
+11,1,121,Alexander Nikishin,CAR,D,laine’s 4head
+11,2,122,Jackson LaCombe,ANA,D,MacKinnon Me Softly
+11,3,123,Shayne Gostisbehere,CAR,D,Show Us Your Mitts
+11,4,124,Morgan Rielly,TOR,D,McJesus Has Risen
+11,5,125,Colton Parayko,STL,D,Zamboni Drivers Union
+11,6,126,Frederik Andersen,EDM,G,ICE Raiders
+11,7,127,Dylan Holloway,STL,"C,LW",Going Holloway up
+11,8,128,Joey Daccord,SEA,G,Demigod
+11,9,129,Thomas Chabot,OTT,D,GiannoneAK27
+11,10,130,Stuart Skinner,WPG,G,Mustache Mafia
+11,11,131,Logan Cooley,UTA,C,Bob's Burgers
+11,12,132,Nazem Kadri,COL,"C,LW",When Helly Freezes Over
+12,1,133,Neal Pionk,WPG,D,When Helly Freezes Over
+12,2,134,Brock Faber,MIN,D,Bob's Burgers
+12,3,135,Drew Doughty,LA,D,Mustache Mafia
+12,4,136,Rickard Rakell,PIT,"C,LW,RW",GiannoneAK27
+12,5,137,Ryan Nugent-Hopkins,EDM,"C,LW",Demigod
+12,6,138,Gabriel Vilardi,WPG,"C,RW",Going Holloway up
+12,7,139,Pavel Dorofeyev,NYR,"LW,RW",ICE Raiders
+12,8,140,Adam Fantilli,CBJ,C,Zamboni Drivers Union
+12,9,141,Sam Bennett,FLA,C,McJesus Has Risen
+12,10,142,Mika Zibanejad,NYR,"C,RW",Show Us Your Mitts
+12,11,143,Carter Verhaeghe,FLA,LW,MacKinnon Me Softly
+12,12,144,Scott Wedgewood,COL,G,laine’s 4head
+13,1,145,Quinton Byfield,LA,C,laine’s 4head
+13,2,146,Karel Vejmelka,UTA,G,MacKinnon Me Softly
+13,3,147,Joel Eriksson Ek,MIN,C,Show Us Your Mitts
+13,4,148,Brad Marchand,FLA,"LW,RW",McJesus Has Risen
+13,5,149,Darnell Nurse,SJ,D,Zamboni Drivers Union
+13,6,150,Mark Stone,VGK,RW,ICE Raiders
+13,7,151,Cam Fowler,STL,D,Going Holloway up
+13,8,152,Steven Stamkos,NSH,"C,RW",Demigod
+13,9,153,Devon Toews,COL,D,GiannoneAK27
+13,10,154,Mathew Barzal,NYI,"C,RW",Mustache Mafia
+13,11,155,Mattias Ekholm,EDM,D,Bob's Burgers
+13,12,156,John Gibson,DET,G,When Helly Freezes Over
+14,1,157,Sean Monahan,CBJ,C,When Helly Freezes Over
+14,2,158,Frank Vatrano,ANA,"LW,RW",Bob's Burgers
+14,3,159,Will Smith,SJ,"LW,RW",Mustache Mafia
+14,4,160,Morgan Geekie,BOS,"C,LW,RW",GiannoneAK27
+14,5,161,Brent Burns,COL,D,Demigod
+14,6,162,Vince Dunn,SEA,D,Going Holloway up
+14,7,163,Cutter Gauthier,ANA,"C,LW,RW",ICE Raiders
+14,8,164,Spencer Knight,CHI,G,Zamboni Drivers Union
+14,9,165,Pavel Buchnevich,STL,"C,LW,RW",McJesus Has Risen
+14,10,166,Bryan Rust,PIT,RW,Show Us Your Mitts
+14,11,167,Zeev Buium,VAN,D,MacKinnon Me Softly
+14,12,168,Pierre-Luc Dubois,WSH,"C,LW",laine’s 4head
+15,1,169,Rasmus Andersson,VGK,D,laine’s 4head
+15,2,170,Tyler Toffoli,SJ,"LW,RW",MacKinnon Me Softly
+15,3,171,Yaroslav Askarov,SJ,G,Show Us Your Mitts
+15,4,172,Gustav Forsling,FLA,D,McJesus Has Risen
+15,5,173,Tyler Seguin,DAL,"C,RW",Zamboni Drivers Union
+15,6,174,Zayne Parekh,CGY,D,ICE Raiders
+15,7,175,William Eklund,OTT,"LW,RW",Going Holloway up
+15,8,176,Patrik Laine,MTL,"LW,RW",Demigod
+15,9,177,,,,GiannoneAK27
+15,10,178,Matthew Schaefer,NYI,D,Mustache Mafia
+15,11,179,Brock Boeser,VAN,"LW,RW",Bob's Burgers
+15,12,180,Mikael Granlund,ANA,"C,LW",When Helly Freezes Over
+16,1,181,Artturi Lehkonen,COL,"LW,RW",When Helly Freezes Over
+16,2,182,Noah Hanifin,VGK,D,Bob's Burgers
+16,3,183,Logan Stankoven,CAR,"C,RW",Mustache Mafia
+16,4,184,John Klingberg,SJ,D,GiannoneAK27
+16,5,185,Filip Hronek,VAN,D,Demigod
+16,6,186,Andrei Kuzmenko,PIT,"LW,RW",Going Holloway up
+16,7,187,Vladimir Tarasenko,MIN,"LW,RW",ICE Raiders
+16,8,188,Alexis Lafreniere,NYR,"LW,RW",Zamboni Drivers Union
+16,9,189,,,,McJesus Has Risen
+16,10,190,Sam Rinzel,CHI,D,Show Us Your Mitts
+16,11,191,Will Cuylle,NYR,"LW,RW",MacKinnon Me Softly
+16,12,192,Kiefer Sherwood,SJ,"LW,RW",laine’s 4head
+17,1,193,Owen Tippett,PHI,"LW,RW",laine’s 4head
+17,2,194,Jake Walman,EDM,D,MacKinnon Me Softly
+17,3,195,Mike Matheson,MTL,D,Show Us Your Mitts
+17,4,196,Brock Nelson,COL,C,McJesus Has Risen
+17,5,197,Alexander Romanov,NYI,D,Zamboni Drivers Union
+17,6,198,Aleksander Barkov,FLA,C,ICE Raiders
+17,7,199,Jet Greaves,CBJ,G,Going Holloway up
+17,8,200,Gabriel Landeskog,COL,"LW,RW",Demigod
+17,9,201,Patrick Kane,CHI,RW,GiannoneAK27
+17,10,202,Ivan Barbashev,VGK,LW,Mustache Mafia
+17,11,203,Matty Beniers,SEA,C,Bob's Burgers
+17,12,204,Brayden McNabb,VGK,D,When Helly Freezes Over
